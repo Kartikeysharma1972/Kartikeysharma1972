@@ -163,6 +163,18 @@ philosophy: >
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🧊 DETAILED METRICS (3D isometric calendar + habits)                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🧊 Detailed Metrics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kartikeysharma1972/Kartikeysharma1972/main/github-metrics.svg" width="100%" alt="Detailed GitHub metrics — isometric contribution calendar, languages, and coding habits"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🎮 CONTRIBUTION GAME                                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
