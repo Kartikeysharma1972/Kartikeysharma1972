@@ -133,18 +133,6 @@ philosophy: >
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 ACHIEVEMENTS                                                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kartikeysharma1972&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="Trophies"/>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 📊 GITHUB ANALYTICS                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -152,13 +140,19 @@ philosophy: >
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kartikeysharma1972&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats"/>
-&nbsp;
-<img height="180em" src="https://streak-stats.demolab.com/?user=Kartikeysharma1972&theme=tokyonight&hide_border=true" alt="Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kartikeysharma1972&theme=tokyonight" width="82%" alt="Profile Details"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikeysharma1972&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=480" alt="Top Languages"/>
+<img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kartikeysharma1972&theme=tokyonight" alt="Stats"/>
+&nbsp;
+<img height="185em" src="https://streak-stats.demolab.com/?user=Kartikeysharma1972&theme=tokyonight&hide_border=true" alt="Streak"/>
+
+<br/><br/>
+
+<img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kartikeysharma1972&theme=tokyonight" alt="Top Languages"/>
+&nbsp;
+<img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kartikeysharma1972&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
 
 <br/><br/>
 
